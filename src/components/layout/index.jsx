@@ -1,7 +1,7 @@
 import Wrapper from "./wrapper";
 import Header from "./headers/header";
 import Footer from "./footers/footer";
-import HeaderTwo from "./headers/header-2";
+// import HeaderTwo from "./headers/header-2";
 import HeaderThree from "./headers/header-3";
 import FooterTwo from "./footers/footer-2";
 import FooterThree from "./footers/footer-3";
@@ -27,7 +27,7 @@ import HeaderFourteen from "./headers/header-14";
 
 export {
   Header,
-  HeaderTwo,
+  // HeaderTwo,
   Wrapper,
   Footer,
   FooterTwo,
