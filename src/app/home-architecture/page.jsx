@@ -3,7 +3,7 @@ import ArchitectureAwards from "@/components/awards/architecture-awards";
 import ArchBlogs from "@/components/blogs/arch-blogs";
 import ArchitectureCounter from "@/components/counters/architecture-counter";
 import ArchitectureBanner from "@/components/hero-banners/architecture-banner";
-import { FooterNine, Header, HeaderNine, Wrapper } from "@/components/layout";
+import { FooterNine, HeaderNine, Wrapper } from "@/components/layout";
 import ArchitecturePortfolio from "@/components/portfolios/architecture-portfolio";
 import ArchitectureServices from "@/components/services/architecture-services";
 import ArchitectureTeams from "@/components/teams/architecture-teams";
@@ -17,7 +17,7 @@ export const metadata = {
 const index = () => {
     return (
       <Wrapper> 
-        <Header/>
+        <HeaderNine/>
         <ArchitectureBanner/>
         <ArchitectureAbout/>
         <ArchitectureCounter/>
