@@ -19,7 +19,7 @@ const index = () => {
       <Wrapper> 
         <HeaderNine/>
         <ArchitectureBanner/>
-        {/* <ArchitectureAbout/> */}
+        <ArchitectureAbout/>
         <ArchitectureCounter/>
         <ArchitecturePortfolio/>
         <ArchitectureServices/>
